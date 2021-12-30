@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjrtwo.
 - 👀 I’m interested in utilizing Julia programmming to develop an octonion arithmetic calculator, and create graphics based on octonion set relationships. 
-- 🌱 I’m currently learning the Julia programming language.  I have recent experience with Python, Ruby, Java, Perl, C, and PeopleSoft programming.  I have previously involved with programming using Lisp, COBOL, and the IBM assembly language.
+- 🌱 I’m currently learning the Julia programming language.  I have recent experience with Python, Ruby, Java, Perl, C, and PeopleSoft programming.  I have previously programmed using Lisp, COBOL, and the IBM assembly language.
 
 
 <!---
